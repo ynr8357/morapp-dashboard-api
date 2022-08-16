@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: SERVICE POINT
+Build-Jdk: 11.0.13
+Implementation-Title: morapp-dashboard-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.fse.casestudy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/morapp-dashboard-api
+Created-By: Maven Integration for Eclipse
+
